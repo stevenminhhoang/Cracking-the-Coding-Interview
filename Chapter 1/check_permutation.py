@@ -1,4 +1,5 @@
 from collections import Counter
+
 def check_permutation(a,b):
     counter = Counter()
     if len(a) != len(b):
